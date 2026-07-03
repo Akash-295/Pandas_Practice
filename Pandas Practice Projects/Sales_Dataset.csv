@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price
+101,Laptop,Electronics,2,50000
+102,Phone,Electronics,4,20000
+103,Chair,Furniture,10,3000
+104,Table,Furniture,4,7000
+105,Laptop,Electronics,1,50000
